@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'rough';
-    src: url('../_assets/rough_typewriter-bld-itl.otf') format('opentype');
+    src: url('rough_typewriter-bld-itl.otf') format('opentype');
 }
 html {
     box-sizing:border-box;
